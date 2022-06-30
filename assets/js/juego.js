@@ -103,7 +103,7 @@ const miModulo = (() => {
       } else {
         alert("Lo siento, perdiste. Volvé a Jugar");
       }
-    }, 250);
+    }, 500);
   };
 
   const turnoComputadora = (puntosAIgualar) => {
